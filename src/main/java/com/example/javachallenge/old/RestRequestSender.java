@@ -1,4 +1,4 @@
-package com.javachallenge;
+package com.example.javachallenge.old;
 
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;

@@ -1,4 +1,4 @@
-package com.javachallenge;
+package com.example.javachallenge.old;
 
 import javax.inject.Inject;
 import javax.mvc.Models;

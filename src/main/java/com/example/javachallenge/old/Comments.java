@@ -1,4 +1,4 @@
-package com.javachallenge;
+package com.example.javachallenge.old;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Named;

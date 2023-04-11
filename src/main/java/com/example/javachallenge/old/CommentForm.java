@@ -1,4 +1,4 @@
-package com.javachallenge;
+package com.example.javachallenge.old;
 
 
 import javax.validation.constraints.NotNull;
