@@ -1,6 +1,5 @@
 package com.example.javachallenge.auth;
 
-import java.io.FileWriter;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
 import org.apache.commons.codec.binary.Base64;
